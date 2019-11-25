@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mario Fuentes -- Developer
 
 # THANKS
 
