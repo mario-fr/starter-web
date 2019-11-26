@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub works. 
-Adding a line.
+Adding a line. Git Stash example.
 
 ## Purpose
 
