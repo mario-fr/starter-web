@@ -11,5 +11,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Talend
+    HTML5, CSS3, Talend, Qlik
     jQuery, Modernizr
